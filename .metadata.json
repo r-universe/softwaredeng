@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "inTrees",
+    "oncran": true
+  }
+]

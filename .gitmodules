@@ -9,3 +9,8 @@
 	shallow = true
 	subdir = inTrees
 	registered = true
+[submodule "RRF"]
+	path = RRF
+	url = https://github.com/cran/RRF
+	shallow = true
+	registered = true

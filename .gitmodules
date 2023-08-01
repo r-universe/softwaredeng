@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RRF"]
+	path = RRF
+	url = https://github.com/cran/RRF
 [submodule "inTrees"]
 	path = inTrees
 	url = https://github.com/softwaredeng/intrees
 	subdir = inTrees
-[submodule "RRF"]
-	path = RRF
-	url = https://github.com/cran/RRF

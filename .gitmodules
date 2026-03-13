@@ -5,7 +5,3 @@
 [submodule "RRF"]
 	path = RRF
 	url = https://github.com/cran/RRF
-[submodule "inTrees"]
-	path = inTrees
-	url = https://github.com/softwaredeng/intrees
-	subdir = inTrees
